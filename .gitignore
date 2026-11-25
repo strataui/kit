@@ -1,0 +1,6 @@
+/target
+.cargo/config.toml
+**/*.rs.bk
+*.swp
+*.bak
+.DS_Store

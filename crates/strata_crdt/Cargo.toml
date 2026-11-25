@@ -1,0 +1,15 @@
+[package]
+name = "strata-crdt"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+description = "Local-first conflict-free replicated data types and collaborative reactive signals for Strata"
+repository.workspace = true
+homepage.workspace = true
+documentation = "https://docs.rs/strata-crdt"
+keywords.workspace = true
+categories.workspace = true
+
+[dependencies]
+strata-dom = { workspace = true }
